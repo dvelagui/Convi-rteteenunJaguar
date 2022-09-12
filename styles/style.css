@@ -75,6 +75,7 @@ body {
 
 .navbar-dark .navbar-nav .nav-link {
   color: var(--white-tamusa);
+  margin-left: 0;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -454,7 +455,8 @@ a:hover~.img-wrapper {
   line-height: 47px;
   display: flex;
   align-items: center;
-  color: var(--white-tamusa)
+  color: var(--white-tamusa);
+  margin-left: 0;
 }
 
 .card-text a {
