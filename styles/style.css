@@ -78,6 +78,10 @@ body {
   margin-left: 0;
 }
 
+#navbarNav > ul > li:nth-child(1) > a {
+  margin-right: 0;
+}
+
 .navbar-light .navbar-nav .nav-link {
   color: var(--white-tamusa);
 }
